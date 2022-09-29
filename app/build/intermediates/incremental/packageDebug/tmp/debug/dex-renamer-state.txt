@@ -1,0 +1,4 @@
+#Thu Sep 29 21:16:08 ICT 2022
+base.0=D\:\\Local Disk\\2022-2023\\Ki1\\Android-Java\\Project-40\\musik-player\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

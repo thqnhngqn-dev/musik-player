@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\nongt\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e57b8deae8cc809a860e57a840f35fc2\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\f3fb8e121effd5569417956c58bf8b53\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\8658275de89683eb0581bd9b220f34d3\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\73551648446282fbea3bbf11c19ceee9\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\7cfd9feb5340c04958134695281452bd\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bd035a22c125656b1fcfa9d051297c88\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\48a23c6a8bec27ce3f6200b786bc5552\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nongt\.gradle\caches\transforms-3\a99d96e67a0ded4ea1bbeba681228a3a\transformed\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\nongt\.gradle\caches\transforms-3\b2ee3631f2b0c5fb8c973d33b3f1a6eb\transformed\blurry-2.1.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e0dab39167f3e1a4ab434e87b8b8bee3\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d69cad5ec2a8d4cb9ab588bdb2960b7e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c0f2b8717457b7f01ee537a1f8a02008\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\a7d6840fa05ca6ecbcb1b1451ee9d837\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\61fa22aabd6401a9ec6266d056aa2233\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dab90f0912f26f5bc9749d0335e4bfdb\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c7b97fc45426c75a56eab89275373ce9\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\0b9fc8d9f154c86a7fc179511600af22\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bc42360d3a527f633a51e00382014a82\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9a8f324c6d3a3453f46d4d01f839ba25\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9adef1f65e67e89881bcfd82c3b26533\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\2efc5084c4295090a041782ed0df4d87\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\93eb37501d08a6fab15663f5534fb4f4\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\17fd1b09b258104a406c0968e3b7ec1b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d3642b5022a0dbc0ef3e0298260601fd\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\67992255f92bd46c5ab0078520404024\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9c81705c32a2ed158e7715f40d6cb76e\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dbe0c2dcd2be04384fb170e4edca5692\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\cc26758fb87d4cf1bebb0bafef441acc\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\93c8429278a12da6714a7a5b9782d4b1\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\3b0f433de77c4d8b21527f5801118f6e\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\20d06fff5812a1e52d46d66e0703d2c3\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\ac97d792d8facf5ba84e5095d2b5730f\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\34b59695826e65b185fc8ca6d4c6c836\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:8:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\nongt\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\nongt\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e57b8deae8cc809a860e57a840f35fc2\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e57b8deae8cc809a860e57a840f35fc2\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nongt\.gradle\caches\transforms-3\a99d96e67a0ded4ea1bbeba681228a3a\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nongt\.gradle\caches\transforms-3\a99d96e67a0ded4ea1bbeba681228a3a\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\17fd1b09b258104a406c0968e3b7ec1b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\17fd1b09b258104a406c0968e3b7ec1b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.blacpythoz.musik.activities.PermitActivity
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:15:19-60
+activity#com.blacpythoz.musik.activities.PlayerActivity
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:19:13-59
+	android:theme
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:18:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.blacpythoz.musik.activities.SettingsActivity
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:parentActivityName
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:30:13-68
+	android:label
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:29:13-60
+	android:configChanges
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:27:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:31:13-33:81
+	android:value
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:33:17-79
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:32:17-63
+activity#com.blacpythoz.musik.activities.SearchActivity
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:parentActivityName
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:38:13-68
+	android:label
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:36:13-54
+service#com.blacpythoz.musik.services.MusicService
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:44:9-57
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:44:18-55
+meta-data#preloaded_fonts
+ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:45:9-47:57
+	android:resource
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:47:13-54
+	android:name
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml:46:13-43
+uses-sdk
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\nongt\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\nongt\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e57b8deae8cc809a860e57a840f35fc2\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e57b8deae8cc809a860e57a840f35fc2\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\f3fb8e121effd5569417956c58bf8b53\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\f3fb8e121effd5569417956c58bf8b53\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\8658275de89683eb0581bd9b220f34d3\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\8658275de89683eb0581bd9b220f34d3\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\73551648446282fbea3bbf11c19ceee9\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\73551648446282fbea3bbf11c19ceee9\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\7cfd9feb5340c04958134695281452bd\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\7cfd9feb5340c04958134695281452bd\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bd035a22c125656b1fcfa9d051297c88\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bd035a22c125656b1fcfa9d051297c88\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\48a23c6a8bec27ce3f6200b786bc5552\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\48a23c6a8bec27ce3f6200b786bc5552\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nongt\.gradle\caches\transforms-3\a99d96e67a0ded4ea1bbeba681228a3a\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nongt\.gradle\caches\transforms-3\a99d96e67a0ded4ea1bbeba681228a3a\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\nongt\.gradle\caches\transforms-3\b2ee3631f2b0c5fb8c973d33b3f1a6eb\transformed\blurry-2.1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\nongt\.gradle\caches\transforms-3\b2ee3631f2b0c5fb8c973d33b3f1a6eb\transformed\blurry-2.1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e0dab39167f3e1a4ab434e87b8b8bee3\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\e0dab39167f3e1a4ab434e87b8b8bee3\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d69cad5ec2a8d4cb9ab588bdb2960b7e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d69cad5ec2a8d4cb9ab588bdb2960b7e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c0f2b8717457b7f01ee537a1f8a02008\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c0f2b8717457b7f01ee537a1f8a02008\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\a7d6840fa05ca6ecbcb1b1451ee9d837\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\a7d6840fa05ca6ecbcb1b1451ee9d837\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\61fa22aabd6401a9ec6266d056aa2233\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\61fa22aabd6401a9ec6266d056aa2233\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dab90f0912f26f5bc9749d0335e4bfdb\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dab90f0912f26f5bc9749d0335e4bfdb\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c7b97fc45426c75a56eab89275373ce9\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\c7b97fc45426c75a56eab89275373ce9\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\0b9fc8d9f154c86a7fc179511600af22\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\0b9fc8d9f154c86a7fc179511600af22\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bc42360d3a527f633a51e00382014a82\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\bc42360d3a527f633a51e00382014a82\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9a8f324c6d3a3453f46d4d01f839ba25\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9a8f324c6d3a3453f46d4d01f839ba25\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9adef1f65e67e89881bcfd82c3b26533\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9adef1f65e67e89881bcfd82c3b26533\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\2efc5084c4295090a041782ed0df4d87\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\2efc5084c4295090a041782ed0df4d87\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\93eb37501d08a6fab15663f5534fb4f4\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\93eb37501d08a6fab15663f5534fb4f4\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\17fd1b09b258104a406c0968e3b7ec1b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\17fd1b09b258104a406c0968e3b7ec1b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d3642b5022a0dbc0ef3e0298260601fd\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\d3642b5022a0dbc0ef3e0298260601fd\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\67992255f92bd46c5ab0078520404024\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\67992255f92bd46c5ab0078520404024\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9c81705c32a2ed158e7715f40d6cb76e\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\9c81705c32a2ed158e7715f40d6cb76e\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dbe0c2dcd2be04384fb170e4edca5692\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\dbe0c2dcd2be04384fb170e4edca5692\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\cc26758fb87d4cf1bebb0bafef441acc\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\cc26758fb87d4cf1bebb0bafef441acc\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\93c8429278a12da6714a7a5b9782d4b1\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\93c8429278a12da6714a7a5b9782d4b1\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\3b0f433de77c4d8b21527f5801118f6e\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nongt\.gradle\caches\transforms-3\3b0f433de77c4d8b21527f5801118f6e\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\20d06fff5812a1e52d46d66e0703d2c3\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\20d06fff5812a1e52d46d66e0703d2c3\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\ac97d792d8facf5ba84e5095d2b5730f\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\ac97d792d8facf5ba84e5095d2b5730f\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\34b59695826e65b185fc8ca6d4c6c836\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nongt\.gradle\caches\transforms-3\34b59695826e65b185fc8ca6d4c6c836\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local Disk\2022-2023\Ki1\Android-Java\Project-40\musik-player\app\src\main\AndroidManifest.xml

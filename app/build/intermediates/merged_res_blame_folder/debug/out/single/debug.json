@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_item_album.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/item_album.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_action_prev.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_action_prev.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_fragment_artist_list.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/fragment_artist_list.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_activity_search.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_default_song_art.jpg.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/default_song_art.jpg"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_default_album_icon.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/default_album_icon.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_nunito_light.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/nunito_light.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_item_artist.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/item_artist.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_music_icon.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/music_icon.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_activity_player.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/menu_song_action_menu.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/menu/song_action_menu.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_panel_player_interface.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/panel_player_interface.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/menu_search_menu.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/menu/search_menu.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_item_song.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/item_song.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_titillium_web_light.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/titillium_web_light.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_menu.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_action_pause.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_action_pause.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/menu_menu_main.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_activity_setting.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_search.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_media_play.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_media_play.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_karla.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/karla.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_dosis_extralight.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/dosis_extralight.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_default_main_cover_art2.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/default_main_cover_art2.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_lato.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/lato.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_dosis.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/dosis.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_media_pause.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_media_pause.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_fade_image_background.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/fade_image_background.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_action_play.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_action_play.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_fragment_album_list.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/fragment_album_list.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_aalbum_default.jpg.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/aalbum_default.jpg"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/layout_fragment_song_list.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/layout/fragment_song_list.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_album_default.jpg.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/album_default.jpg"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/font_roboto_light.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/font/roboto_light.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_ic_action_next.xml.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/ic_action_next.xml"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blacpythoz.musik.app-merged_res-15:/drawable_default_main_cover_art.png.flat",
+        "source": "com.blacpythoz.musik.app-main-17:/drawable/default_main_cover_art.png"
+    }
+]
