@@ -2,7 +2,7 @@
 
 ### Features
 
-- Fast search and Play
+- Use youtube api to search fast and can download or listen directly
 
 - Manage playlist Easily
 
