@@ -5,7 +5,7 @@
 - Use youtube api to search fast and can download or listen directly
 
 - Manage playlist Easily
-- 
+
 ### APK
 Download apk file here [Music player v1.1.1.1](https://github.com/thqnhngqn-dev/Source/raw/master/app-debug.apk)
 ```
