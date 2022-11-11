@@ -32,7 +32,11 @@ src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screens
 - **Player Preview**
 <div align="center">
    <table align="center" border="0" >
-      <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg" width=360>
+      <tr>
+         <td>
+            <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg" width=360>
+         </td>
+      </tr>
    </table>
 </div>
 
