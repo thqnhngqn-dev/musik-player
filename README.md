@@ -7,13 +7,9 @@
 - Manage playlist Easily
 - 
 ### APK
-Download apk file here [Music player v1.1.1.1](https://github.com/thqnhngqn-dev/Source/raw/master/musik-player\app\build\outputs\apk\debug\app-debug.apk)
+Download apk file here [Music player v1.1.1.1](https://github.com/thqnhngqn-dev/Source/raw/app-debug.apk)
 ```
-https://github.com/thqnhngqn-dev/Source/raw/master/musik-player\app\build\outputs\apk\debug\app-debug.apk
-```
-
-```
-https://raw.githubusercontent.com/thqnhngqn-dev/musik-player\app\build\outputs\apk\debug\app-debug.apk
+https://github.com/thqnhngqn-dev/Source/raw/app-debug.apk
 ```
 ## Screen Shots
 <br>
