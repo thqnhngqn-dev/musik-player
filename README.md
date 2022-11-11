@@ -18,12 +18,12 @@ https://github.com/thqnhngqn-dev/Source/raw/master/app-debug.apk
   <tr>
     <td>
 <img width=360
-src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2018-06-22-001146.png"/>
+src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/device-2022-11-11-sreach.jpg"/>
        <td><img width=360
-src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2018-06-22-001146.png"/>
+src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg"/>
     </td>
      <td> <img width=360
-src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2018-06-22-001146.png"/></td>
+src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-main-player.jpg"/></td>
   </table>
   </div>
 <br>
