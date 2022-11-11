@@ -28,14 +28,19 @@ src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screens
   </div>
 <br>
 
+
+<div align="center">
+   <table align="center" border="0" >
   - **Player Preview**
 
-  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg" height=500 width=270>
+  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg" width=360>
   
   - **Albums Preview**
 
-  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-albums.jpg" height=500 width=270>
+  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-albums.jpg" width=360>
 
   - **Main Player**
 
-  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-main-player.jpg" height=500 width=270>
+  - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-main-player.jpg" width=360>
+   </table>
+</div>
