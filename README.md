@@ -27,6 +27,7 @@ src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screens
   </table>
   </div>
 <br>
+
   - **Player Preview**
 
   - <img src="https://raw.githubusercontent.com/thqnhngqn-dev/musik-player/master/screenshots/device-2022-11-11-player-preview.jpg" height=500 width=270>
